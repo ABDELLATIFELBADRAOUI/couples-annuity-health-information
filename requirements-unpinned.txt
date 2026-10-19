@@ -1,0 +1,18 @@
+# Same packages without fixed versions (only if requirements.txt cannot be installed)
+numpy
+scipy
+pandas
+matplotlib
+jax
+jaxlib
+numpyro
+arviz
+torch
+torchtuples
+pycox
+scikit-survival
+scikit-learn
+statsmodels
+shap
+numba
+h5py

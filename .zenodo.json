@@ -1,0 +1,16 @@
+{
+  "title": "Code for: The Value of Health Information in Couples' Annuity Choice: A Dyadic Mortality Model, an Exact Benchmark, and Explainable Reinforcement Learning",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "description": "Code that produces every result, table and figure of the article: the cohort of couples built from the RAND HRS Longitudinal File, a Bayesian mortality model of couples and its assessment, the couple's annuity decision solved by dynamic programming with exact expectations, two reinforcement learning agents, and Shapley-value and decision-tree explanations of the annuity decision. No data are included: the HRS conditions of use do not permit the transfer of the data to third parties, and the scripts build the analysis files from the original RAND HRS file.",
+  "creators": [
+    {"name": "El Badraoui, Abdellatif", "affiliation": "Engineering Sciences Laboratory, Ibn Tofail University, Kenitra, Morocco", "orcid": "0009-0008-1779-7980"},
+    {"name": "Mouhssine, Yassine", "affiliation": "Laboratory of Analyzing and Modeling Systems for Decision Support (LAMSAD), Hassan I University, Settat, Morocco", "orcid": "0009-0002-2502-0414"},
+    {"name": "El Alaoui, Abdelkader", "affiliation": "Rabat Business School, International University of Rabat, Rabat, Morocco", "orcid": "0000-0002-5004-0807"},
+    {"name": "Ouatik El Alaoui, Said", "affiliation": "Engineering Sciences Laboratory, Ibn Tofail University, Kenitra, Morocco", "orcid": "0000-0003-1194-0578"}
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": ["joint and survivor annuities", "dependent mortality", "Bayesian survival analysis", "dynamic programming", "reinforcement learning", "Shapley values"]
+}

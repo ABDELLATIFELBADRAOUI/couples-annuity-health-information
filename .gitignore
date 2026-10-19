@@ -1,0 +1,14 @@
+# Data and results: derived from the RAND HRS file, whose conditions of use do not permit redistribution
+*.dta
+*.csv
+*.npz
+*.zip
+results/
+results_*/
+results_queue/
+paper/numbers.json
+paper/numbers.tex
+paper/tables/
+paper/tables_sn/
+paper/figures/
+__pycache__/
